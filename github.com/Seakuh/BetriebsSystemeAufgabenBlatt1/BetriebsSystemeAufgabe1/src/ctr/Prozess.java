@@ -1,7 +1,7 @@
 package ctr;
 
 public class Prozess {
-
+	//
 	double laufZeit;
 	char prozessName;
 	int priorität;
